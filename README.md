@@ -1,4 +1,4 @@
-# LangChain-Integrated RAG Framework with Groq Gemma2-9b-it and Llama Embeddings
+# LangChain-Integrated RAG Framework with Groq Gemma2-9b-it and Llama Embeddings for Contexualized Document Synthesis
 <p align="center">
   <img src="https://github.com/user-attachments/assets/babaafbb-11a0-48c3-b262-27694c41bcd3" alt="Image" width="500">
 </p>
